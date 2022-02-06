@@ -47,3 +47,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "static/images/background-fuzzy_boostgreen.jpg"
   recent_posts_number = 2
+  body_classes = "Garamond bg-near-white"
