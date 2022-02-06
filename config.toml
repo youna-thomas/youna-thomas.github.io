@@ -1,5 +1,5 @@
 title = "Mariage de Youna & Thomas"
-baseURL = "https://example.com"
+baseURL = "https://youna-thomas.github.io"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
@@ -34,7 +34,7 @@ enableRobotsTXT = true
   twitter = ""
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/youna-thomas/youna-thomas.github.io"
   gitlab = ""
   linkedin = ""
   mastodon = ""
@@ -45,5 +45,5 @@ enableRobotsTXT = true
 
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "images/back.jpg"
+  featured_image = "static/images/background-fuzzy_boostgreen.jpg"
   recent_posts_number = 2
