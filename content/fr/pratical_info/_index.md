@@ -6,7 +6,7 @@ description: "Toutes les informations dont vous avez besoin pour vous rendre au 
 
 # Cérémonie de mariage: 
 
-le 9 juillet 2022, à 15h en la Cathédrale Saint Maurice d'Angers 
+Le samedi 9 juillet 2022, à 15h en la Cathédrale Saint Maurice d'Angers 
 
 # Réception: 
 
