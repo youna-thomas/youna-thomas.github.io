@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/back.jpg"
+featured_image: "images/background-fuzzy_boostgreen.jpg"
 omit_header_text: true
 description: Laissez-nous un message!
 type: page

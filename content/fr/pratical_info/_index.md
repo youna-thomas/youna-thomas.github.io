@@ -1,6 +1,6 @@
 ---
 title: "Information Pratiques"
-featured_image: '/images/back.jpg'
+featured_image: '/images/background-fuzzy_boostgreen.jpg'
 description: "Toutes les informations dont vous avez besoin pour vous rendre au mariage"
 ---
 
