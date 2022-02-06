@@ -8,8 +8,6 @@ description: "Toutes les informations dont vous avez besoin pour vous rendre au 
 
 le 9 juillet 2022, à 15h en la Cathédrale Saint Maurice d'Angers 
 
-(La cérémonie débute à 15h. Pourriez-vous arriver 15 minutes en avance pour vous installer ?)
-
 # Réception: 
 
 A l'Orangerie du château de Pignerolle, Saint- Barthélémy d'Anjou
