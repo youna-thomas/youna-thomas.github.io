@@ -8,7 +8,7 @@ description: "Toutes les informations dont vous avez besoin pour vous rendre au 
 
 Le samedi 9 juillet 2022, à 15h en la Cathédrale Saint Maurice d'Angers.
 
-Lien pour [GPS](geo:47.470672,-0.472782)
+Lien pour [GPS](geo:47.47058,-0.55528?z=19)
 
 # Réception: 
 
@@ -19,6 +19,8 @@ A l'Orangerie du château de Pignerolle, Saint- Barthélémy d'Anjou
 * Coktail: 17h30 
 * Diner: 19h30
 * Soirée dansante: 21h30
+
+Lien pour [GPS](geo:47.47032,-0.47307?z=19)
 
 ## Itinéraire
 
