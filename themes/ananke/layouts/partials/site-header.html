@@ -3,9 +3,10 @@
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
+    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-10" }}">
       {{ partial "site-navigation.html" .}}
       <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+      <div class="bg-black-30 br4 shadow2 pa1 w-70 center">
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
@@ -14,6 +15,7 @@
             {{ . }}
           </h2>
         {{ end }}
+      </div>
       </div>
     </div>
   </header>
