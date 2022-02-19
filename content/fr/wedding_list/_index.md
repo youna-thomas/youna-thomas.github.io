@@ -1,7 +1,7 @@
 ---
 title: "Liste de Mariage"
 featured_image: '/images/background-fuzzy_boostgreen.jpg'
-description: "TODO"
+description: "Liste de mariage"
 ---
 
-blabla
+[lien vers la liste de mariage](https://younathomas.zankyou.com/fr/liste-de-mariage).
