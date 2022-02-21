@@ -19,6 +19,7 @@ A l'Orangerie du château de Pignerolle, Saint- Barthélémy d'Anjou
 * Coktail: 17h30 
 * Diner: 19h30
 * Soirée dansante: 21h30
+* Fin de la soirée: l'Orangerie de Pignerolle ferme à 4h du matin.
 
 Lien pour [GPS](geo:47.47032,-0.47307?z=19)
 
@@ -29,7 +30,8 @@ Lien pour [GPS](geo:47.47032,-0.47307?z=19)
 
 # Hébergement
 
-
+Il n'y a pas d'hébergement sur le lieu de réception. 
+Vous pourrez trouver des hébergements à Saint-Barthélémy d'Anjou ou à Angers.
 
 
 
