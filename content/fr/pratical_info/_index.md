@@ -12,8 +12,6 @@ Lien pour [GPS](geo:47.47058,-0.55528?z=19)
 
 # Réception: 
 
-Réception:
-
 A l'Orangerie du château de Pignerolle, Saint- Barthélémy d'Anjou
 
 * Coktail: 17h30 
