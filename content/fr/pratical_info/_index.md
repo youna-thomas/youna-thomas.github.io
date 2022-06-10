@@ -33,13 +33,18 @@ Vous pourrez trouver des hébergements à Saint-Barthélémy d'Anjou ou à Anger
 
 # Parking
 
-Il n'est pas facile de trouver une place dans le centre ville d'Angers un samedi après-midi! Nous vous conseillons de prévoir le temps nécessaire pour vous garer.
+Il n'est pas facile de trouver une place dans le centre ville d'Angers un samedi après-midi! 
+
+Nous vous conseillons de prévoir le temps nécessaire pour vous garer.
+
 Voici les parkings proche de la cathédrale:
 
 ![Capture d’écran (447)](https://user-images.githubusercontent.com/99075035/173009596-da98d4a6-004c-4485-98b2-a53ac1530195.png)
 
 Vous aurez plus de chance de trouver une place au parking payant du Ralliement.
+
 Le parking Kennedy à côté du château est souvent plein et petit.
+
 Si vous avez beaucoup de chance vous trouverez peut être une place juste à côté de la cathédrale, place Freppel.
 
 
