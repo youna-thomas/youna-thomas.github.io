@@ -8,6 +8,8 @@ description: "Toutes les informations dont vous avez besoin pour vous rendre au 
 
 Le samedi 9 juillet 2022, à 15h en la Cathédrale Saint Maurice d'Angers.
 
+Attention: il n'est pas facile de trouver une place au centre ville d'Angers un samedi après-midi (voir, la section "Parking" ci-dessous)
+
 Lien pour [GPS](geo:47.47058,-0.55528?z=19)
 
 # Réception: 
